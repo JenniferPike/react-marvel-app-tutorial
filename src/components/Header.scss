@@ -1,5 +1,4 @@
 .Header__Component {
-  header {
     background-color: #f01716;
     color: white;
     display: flex;
@@ -24,7 +23,7 @@
         letter-spacing: -2.2px;
         font-size: 35px;
     }
-  }
+  
 
   .visually-hidden:not(:focus):not(:active) {
       position: absolute;
